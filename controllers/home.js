@@ -39,7 +39,7 @@ var viewModel = {
       timestamp:    Date.now
     }
   ]
-}
+};
 
 
 module.exports = {
